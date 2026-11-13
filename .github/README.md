@@ -73,7 +73,6 @@ This installation method utilizes Docker Compose for a streamlined setup. Ensure
     Create a new file named `docker-compose.yml` in a directory of your choice. Copy and paste the following content into it:
 
     ```yaml
-    version: '3.4'
     name: repository_name
     services:
       repository_name:
